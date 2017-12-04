@@ -1,8 +1,10 @@
 <?php
 /**
- * Plugin Name: WP Static Menus
- * Description: Cache navigation menus in static HTML for big performance gains.
- * Version: 1.0.0
+ * Plugin Name:           WP Static Menus
+ * Description:           Cache navigation menus in static HTML for big performance gains.
+ * Version:               1.0.0
+ * Requires at least:     4.7
+ * Tested up to:          4.9.1
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
